@@ -1,0 +1,6 @@
+﻿{
+    "Count":  2,
+    "Method":  "e621 JSON API",
+    "SearchUrl":  "https://e621.net/posts?tags=miyakuroi",
+    "Note":  "API не вернул общий счётчик; указано число записей на первой странице"
+}
